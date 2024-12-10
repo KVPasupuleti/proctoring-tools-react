@@ -1,0 +1,1 @@
+A Create React App that is used for various proctoring techniques like Microphone, Camera, Screen sharing, FullScreen, Dual Monitor detection, Noise Detection, etc
